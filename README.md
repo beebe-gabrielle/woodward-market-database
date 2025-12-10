@@ -36,6 +36,8 @@ I completed the following task:
 The resulting table with clean data:
 </p>
 <img width="1046" height="233" alt="image" src="https://github.com/user-attachments/assets/49c6c4bb-cbfe-4104-96a8-5564ef228056" />
+</p>
+<i> Additional cleaning scripts for other tables are included in the sql_scripts folder for reference.
 
 ## 4. Key Insights & Visualizations
 This section is crucial for showcasing your findings. Display key visuals (if hosted elsewhere, like a dashboard) and explain what they represent.
