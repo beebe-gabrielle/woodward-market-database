@@ -15,13 +15,16 @@ This project uses a synthetic retail/e‑commerce dataset generated using the AI
 *  Cleaning and standardizing messy data for accurate reporting.
 *  Producing insights into customer lifetime value, category performance, and inventory shortages.
 
-## 2. Methodology & Data Cleaning
-*   **Creating Database Schema:** This dataset is structured into multiple relational tables including order_items, orders, inventory, products, and customers. An Entity Relationship Diagram (ERD) was designed to map out the relationships between these tables, guiding the schema creation process and ensuring proper use of primary and foreign keys.
+## 2. Methodology
+*   **Creating Database Schema:** This dataset is structured into multiple relational tables including order_items, orders, inventory, products, and customers. I designed an Entity Relationship Diagram (ERD) to map out the relationships between these tables, guiding my schema creation process and ensuring proper use of primary and foreign keys.
 
 <img width="866" height="536" alt="image" src="https://github.com/user-attachments/assets/e6797eb5-075f-491c-afa7-f0c4a77d7bb9" />
 
   
-*   **Data Cleaning:** Briefly explain the process you went through to clean the data (e.g., handling missing values, removing outliers, changing data formats).
+## 3. Data Cleaning:** 
+
+Briefly explain the process you went through to clean the data (e.g., handling missing values, removing outliers, changing data formats)
+
 *   **Analysis:** Mention specific analyses performed or models used.
 
 ## 4. Key Insights & Visualizations
